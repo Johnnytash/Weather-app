@@ -2,11 +2,6 @@
 
 A Django-based weather application that displays real-time weather information and dynamic city backgrounds. The application fetches weather data from OpenWeatherMap API and city images from Google Custom Search API.
 
-![Weather Dashboard Preview]
-
-![Uploading Screenshot 2024-10-25 125947.png…]()
-
-
 ## Features
 
 - Real-time weather information display
