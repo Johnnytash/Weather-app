@@ -4,7 +4,8 @@ A Django-based weather application that displays real-time weather information a
 
 ![Weather Dashboard Preview]
 
-![alt text](<Screenshot 2024-10-25 125947-1.png>)
+![Uploading Screenshot 2024-10-25 125947.png…]()
+
 
 ## Features
 
